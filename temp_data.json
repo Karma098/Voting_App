@@ -1,0 +1,15 @@
+{
+  "name":"N.Modi",
+  "party":"BJP",
+  "age":71,
+  "votes":[
+    {
+      "user":"611fdfdd6ddf5fdcdc4ddr51c1",
+      "votedAt":"date and time"
+    },
+    {
+      "user":"userId",
+      "votedAt":"date and time"
+    }
+  ]
+}
